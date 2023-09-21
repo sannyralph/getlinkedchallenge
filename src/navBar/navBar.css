@@ -1,0 +1,39 @@
+
+
+#get {
+    color: #FFFFFF;
+}
+
+#linked {
+    color: #D434FE;
+}
+
+.background {
+    height: 100px !important;
+    background-color: #150e28 !important;
+}
+
+.logo-text {
+    font-weight: 900;
+}
+
+.nav-links {
+   color: #FFFFFF !important;
+   font-family: 'Montserrat' !important;
+   display: flex !important;
+   Justify-content: flex-end !important;
+}
+
+.navbar-collapse {
+   flex-grow: 0 !important;
+}
+
+.me-auto {
+    padding-right: 100px;
+}
+
+.button {
+    font-family: 'Montserrat' !important;
+    color: #FFFFFF !important;
+    background:linear-gradient( #D434FE,transparent);
+}

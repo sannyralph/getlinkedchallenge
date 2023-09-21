@@ -1,0 +1,10 @@
+
+
+.container h4 {
+    /* display: flex;
+    justify-content: end; */
+    color: #ffffff;
+    font: 'Montserrat' !important;
+    font-family: bold italic;
+    font-weight: 600;
+}
