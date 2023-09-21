@@ -3,7 +3,7 @@ import star from "./../assets/star.png"
 import star1 from "./../assets/star2.png"
 import mann from "./../assets/man.png"
 import Button from '@mui/material/Button';
-import image01 from "./../assets/Image1.png"
+// import image01 from "./../assets/Image1.png"
 
 const Home = () => {
     return (
@@ -22,8 +22,10 @@ const Home = () => {
                 </div>
                 <div><span>00H</span><span>00M</span><span>00S</span></div>
             </div>
-            <img src={mann} alt="man-with-smartglassess"  style={{width:'100%', height: '100%'}} />
-        </section>
+            <div>
+                <img src={mann} alt="man-with-smartglassess"  style={{width:'100%', height: '100%'}} />
+            </div>                           
+        </section>                                                              
     );
 }
 
