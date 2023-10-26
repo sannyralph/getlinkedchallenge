@@ -8,3 +8,32 @@
     font-family: bold italic;
     font-weight: 600;
 }
+
+.subhead {
+    color: #ffffff;
+    font: clash ;
+    font-family: 'Clash Display', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.paragraphs {
+    color: #ffffff;
+    align-items: center;
+    font-weight: 400;
+    font-size: 13px;
+    font: 'Montserrat', sans-serif;
+}
+
+#background-image {
+    background-image: url("./../assets/man.png");
+    background-size:contain;
+    background-position:top;
+    background-repeat: no-repeat;
+    background: cover;
+    height: 100%;
+    width: 100%;
+    position: relative; 
+
+}
+
