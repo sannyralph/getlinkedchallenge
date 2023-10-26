@@ -17,6 +17,25 @@
     font-weight: bold;
 }
 
+#subheadDigit {
+    color: #d434fe;
+}
+
+.timer-digits {
+    font-family: 'Unica One';
+    font-weight: 400;
+    font-size: 48px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.timer-letter {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+}
+
 .paragraphs {
     color: #ffffff;
     align-items: center;
