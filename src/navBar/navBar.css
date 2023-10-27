@@ -36,4 +36,5 @@
     font-family: 'Montserrat' !important;
     color: #FFFFFF !important;
     background:linear-gradient( #D434FE,transparent);
+    position: fixed;
 }
