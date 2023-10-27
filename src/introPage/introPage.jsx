@@ -10,8 +10,8 @@ const Intro = () => {
                     <h5 className="bigIdea">The Big <br/> Idea!</h5>
                 </div>
                 <div>
-                    <h5>Introduction to getlinked tech Hackathon 1.0</h5>
-                    <p>Our tech hackathon is a melting pot of visionaries, 
+                    <h5 className="subhead">Introduction to getlinked <br /><span id="subheadDigit">tech Hackathon 1.0</span></h5>
+                    <p className="paragraphs">Our tech hackathon is a melting pot of visionaries, 
                         and its purpose is as clear as day: to shape the future. 
                         Whether you're a coding genius, a design maverick, 
                         or a concept wizard, 

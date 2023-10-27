@@ -11,10 +11,15 @@
 .bigIdea {
     position: absolute;
     text-align: center;
-    top: 250px;
+    top: 200px;
     color: white;
     width: 100%;
     font-size: 25px;
     display: flex;
     justify-content: center;
+    padding-right: 100px;
+}
+
+.introHead {
+
 }
