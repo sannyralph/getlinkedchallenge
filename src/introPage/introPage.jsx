@@ -5,8 +5,9 @@ const Intro = () => {
     return (
         <section>
             <div>
-                <div>
+                <div className="introImage">
                     <img src={Bigidea} alt="big-idea_Image" style={{width:'100%', height: '100%'}}  />
+                    <h5 className="bigIdea">The Big <br/> Idea!</h5>
                 </div>
                 <div>
                     <h5>Introduction to getlinked tech Hackathon 1.0</h5>
